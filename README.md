@@ -8,7 +8,7 @@
 
 ## Proyecto: Contador de 0-99
 
-![Arduino con semáforo](./Proyecto_parte_1.png     "Foto de arduino")
+![Arduino con semáforo](./img/Proyecto_parte_1.png    "Foto de arduino")
 
 ### Descripción
 Este proyecto cumple la función de un contador de 0-99
