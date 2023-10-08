@@ -102,8 +102,7 @@ encendidos ambos displays cuando en realidad se encienden y se apagan.
 ```c++
 void manejarDisplay(int contadorNumeros)
 {
-  /*Esta función sirve para manejar los números y el encendido y apagado de displays,
- al contador lo dividimos por 10 para poder sacar los dígitos.*/  
+  /*Esta función sirve para manejar los números y el encendido y apagado de displays,al contador lo dividimos por 10 para poder sacar los dígitos.*/  
   numerosDisplay(contadorNumeros / 10);
   prenderDisplay(1, 0);
   delay(50);
